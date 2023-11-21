@@ -1,18 +1,21 @@
 # LangChain Chatbot Tutorial
 
 - **LangChain**: LangChain is an open source framework available in Python or JavaScript (TypeScript) packages. It facilitates the integration of Large Language Models with external data, enabling developers to enhance the capabilities of models like GPT-4 by connecting them to custom data and computations.
+![alt text](https://github.com/ThaminduSulakshana/LangChain-Tutorial_langchain_model_building/blob/33fa5125314d3907426a35003f11b16aa4eb013b/Screenshot%20(131).png)
 
 ## 🚀 Key Features
 
-- **Models (LLM Wrappers)**: Interact with LLMs by instantiating wrappers for models such as GPT-3.5-turbo or GPT-4.
+- **LangChain Integration:** Learn how to seamlessly incorporate LangChain into your AI development workflow.
   
-- **Prompts**: Utilize PromptTemplates to dynamically change prompts with user input, abstracting away repetitive components.
+- **LLM Wrappers:** Explore the interaction with GPT-3.5-turbo and GPT-4 using LangChain's LLM wrappers.
 
-- **Chains**: Create functionality by combining PromptTemplates and LLMs into chains. Chains can be sequentially linked to build complex compositions.
+- **Prompt Templates:** Dive into the world of dynamic prompts using LangChain's PromptTemplates for personalized user interactions.
+  
+- **Chains and Compositions:** Build functional chains to combine prompts, responses, and actions, creating a versatile chatbot.
+  
+- **Embeddings and Vector Stores:** Discover the power of Vector Stores for efficient storage and retrieval of vectorized data chunks.
 
-- **Embeddings and Vector Stores**: Break large data into chunks, store them as embeddings, and utilize Vector Stores for efficient querying.
-
-- **Agents**: Develop autonomous agents that take inputs, complete tasks sequentially, and interact with external APIs to perform actions.
+- **Agents for Autonomous Actions:** Develop agents that perform sequential tasks, interacting with external APIs to accomplish specific actions.
 
 ## 🛠️ Getting Started
 
