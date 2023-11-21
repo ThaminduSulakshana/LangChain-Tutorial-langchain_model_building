@@ -2,7 +2,7 @@
 
 - **LangChain**: LangChain is an open source framework available in Python or JavaScript (TypeScript) packages. It facilitates the integration of Large Language Models with external data, enabling developers to enhance the capabilities of models like GPT-4 by connecting them to custom data and computations.
 
-## Features
+## 🚀 Key Features
 
 - **Models (LLM Wrappers)**: Interact with LLMs by instantiating wrappers for models such as GPT-3.5-turbo or GPT-4.
   
@@ -14,7 +14,7 @@
 
 - **Agents**: Develop autonomous agents that take inputs, complete tasks sequentially, and interact with external APIs to perform actions.
 
-## Getting Started
+## 🛠️ Getting Started
 
 Follow these steps to set up your environment and start building with LangChain:
 
@@ -23,7 +23,7 @@ Follow these steps to set up your environment and start building with LangChain:
 3. Run the provided code snippets to instantiate models, create prompts, build chains, and set up Vector Stores.
 
 
-## Use Cases
+## 💡 Use Cases
 
 Explore various use cases for custom-knowledge chatbots built with LangChain:
 
